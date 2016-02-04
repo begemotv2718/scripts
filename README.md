@@ -4,4 +4,6 @@ makegivenp.pl - Convert Xfig .fig file with latex annotations into .eps
 img2faxpbm.py - Prepare image to transmission with efax
 get-metar.sh - Get Metar data
 bwtiff2djvu.py - Convert bw or grayscale image to djvu using djvulibre with some fancy (iww44 compression for background)
- 
+Easter.py - Some useful dates for Easter
+scale-image.py - scale image, trivial
+tabgroups2html.py - extract info from tabgroupsmanager saved tabs 
